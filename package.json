@@ -1,0 +1,15 @@
+{
+  "author": "dhamo",
+  "name": "standard-respnse",
+  "version": "1.0.0",
+  "main": "./lib/js/ResponseBuilder.js",
+  "types": "./lib/tds/ResponseBuilder.d.ts",
+  "dependencies": {
+    "@types/node": "^7.0.13",
+    "tslib": "^1.6.0"
+  },
+  "repository": {
+    "url": "https://github.com/sgddaran",
+    "type": "git"
+  }
+}
